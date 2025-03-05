@@ -1,3 +1,14 @@
+pawan-kumar-portfolio/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+│   ├── profile.jpg
+│   └── favicon.ico
+└── README.md
+
 # Pawan Kumar - Portfolio
 
 This is my personal portfolio website showcasing my skills, experience, and projects.
